@@ -3,10 +3,10 @@ import './globals.css';
 import { Toaster } from "@/components/ui/toaster";
 
 export const metadata: Metadata = {
-  title: 'CreatorBoost AI | Viral Content with AI',
-  description: 'AI Tools for YouTube & Instagram Creators. Generate Titles, Captions, Hashtags, Scripts, and Content Plans.',
+  title: 'CreatorBoost AI - YouTube Title, Caption & Hashtag Generator',
+  description:
+    'Free AI tools for YouTube and Instagram creators. Generate titles, captions, hashtags, scripts, thumbnail ideas and content plans instantly.',
 };
-
 export default function RootLayout({
   children,
 }: Readonly<{
